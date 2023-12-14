@@ -355,3 +355,5 @@ C:\AgendaDio\AgendaDio\AgendaDio\obj\Debug\net5.0\ref\AgendaDio.dll
 C:\AgendaDio\AgendaDio\AgendaDio\obj\Debug\net5.0\AgendaDio.pdb
 C:\AgendaDio\AgendaDio\AgendaDio\obj\Debug\net5.0\AgendaDio.genruntimeconfig.cache
 C:\AgendaDio\AgendaDIO\AgendaDio\obj\Debug\net5.0\Razor\Areas\Contatos\Pages\Index.cshtml.g.cs
+C:\AgendaDio\AgendaDIO\AgendaDio\obj\Debug\net5.0\Razor\Areas\_ViewImports.cshtml.g.cs
+C:\AgendaDio\AgendaDIO\AgendaDio\obj\Debug\net5.0\Razor\Areas\Contatos\Pages\Create.cshtml.g.cs
