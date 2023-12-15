@@ -10,9 +10,20 @@ namespace AgendaDio.Pages
 {
     public class Index1Model : PageModel
     {
+        [BindProperty]
         public Contato Contato { get; set; }
         public void OnGet()
         {
+        }
+
+        public IActionResult OnPost()
+        {
+            if(!ModelState.IsValid)
+            {
+                return Page();
+            }
+            //todo: persistir os dados
+            return RedirectToPage("Index");
         }
     }
 }
