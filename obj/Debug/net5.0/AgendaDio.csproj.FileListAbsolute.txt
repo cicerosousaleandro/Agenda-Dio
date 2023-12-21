@@ -5,7 +5,6 @@ C:\AgendaDio\AgendaDio\AgendaDio\bin\Debug\net5.0\AgendaDio.deps.json
 C:\AgendaDio\AgendaDio\AgendaDio\bin\Debug\net5.0\AgendaDio.runtimeconfig.json
 C:\AgendaDio\AgendaDio\AgendaDio\bin\Debug\net5.0\AgendaDio.runtimeconfig.dev.json
 C:\AgendaDio\AgendaDio\AgendaDio\bin\Debug\net5.0\AgendaDio.dll
-C:\AgendaDio\AgendaDio\AgendaDio\bin\Debug\net5.0\ref\AgendaDio.dll
 C:\AgendaDio\AgendaDio\AgendaDio\bin\Debug\net5.0\AgendaDio.pdb
 C:\AgendaDio\AgendaDio\AgendaDio\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Antiforgery.dll
 C:\AgendaDio\AgendaDio\AgendaDio\bin\Debug\net5.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
@@ -335,7 +334,6 @@ C:\AgendaDio\AgendaDio\AgendaDio\obj\Debug\net5.0\AgendaDio.MvcApplicationPartsA
 C:\AgendaDio\AgendaDio\AgendaDio\obj\Debug\net5.0\AgendaDio.RazorAssemblyInfo.cache
 C:\AgendaDio\AgendaDio\AgendaDio\obj\Debug\net5.0\AgendaDio.RazorAssemblyInfo.cs
 C:\AgendaDio\AgendaDio\AgendaDio\obj\Debug\net5.0\staticwebassets\AgendaDio.StaticWebAssets.Manifest.cache
-C:\AgendaDio\AgendaDio\AgendaDio\obj\Debug\net5.0\staticwebassets\AgendaDio.StaticWebAssets.xml
 C:\AgendaDio\AgendaDio\AgendaDio\obj\Debug\net5.0\scopedcss\bundle\AgendaDio.styles.css
 C:\AgendaDio\AgendaDio\AgendaDio\obj\Debug\net5.0\AgendaDio.TagHelpers.input.cache
 C:\AgendaDio\AgendaDio\AgendaDio\obj\Debug\net5.0\AgendaDio.TagHelpers.output.cache
@@ -357,3 +355,7 @@ C:\AgendaDio\AgendaDio\AgendaDio\obj\Debug\net5.0\AgendaDio.genruntimeconfig.cac
 C:\AgendaDio\AgendaDIO\AgendaDio\obj\Debug\net5.0\Razor\Areas\Contatos\Pages\Index.cshtml.g.cs
 C:\AgendaDio\AgendaDIO\AgendaDio\obj\Debug\net5.0\Razor\Areas\_ViewImports.cshtml.g.cs
 C:\AgendaDio\AgendaDIO\AgendaDio\obj\Debug\net5.0\Razor\Areas\Contatos\Pages\Create.cshtml.g.cs
+C:\AgendaDio\AgendaDIO\AgendaDio\bin\Debug\net5.0\ref\AgendaDio.dll
+C:\AgendaDio\AgendaDIO\AgendaDio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\AgendaDio\AgendaDIO\AgendaDio\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\AgendaDio\AgendaDIO\AgendaDio\obj\Debug\net5.0\staticwebassets\AgendaDio.StaticWebAssets.xml
